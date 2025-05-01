@@ -1,7 +1,7 @@
 # Gym-Website
 
 ## Overview
-**Gym-Website** is a dynamic, user-friendly website designed to provide a seamless digital experience for gym members and potential clients. Built using **HTML** and **External CSS**, this website offers a modern, sleek, and fully responsive design. The focus on **web design** ensures a visually appealing interface that enhances user interaction and engagement, while keeping navigation simple and intuitive.
+**Gym-Website** is a dynamic, user-friendly website designed to provide a seamless digital experience for gym members and potential clients. Built using **HTML**, **External CSS** and **JavaScript**, this website offers a modern, sleek, and fully responsive design. The focus on **web design** ensures a visually appealing interface that enhances user interaction and engagement, while keeping navigation simple and intuitive.
 
 ## Key Features
 - **Responsive Layout**: The website is designed to automatically adjust and look great on any device, including desktops, tablets, and smartphones.
